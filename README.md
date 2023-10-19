@@ -27,3 +27,5 @@ This project will be structured into three main key phases:
 3. Model Building & Prediction
 
 Let's embark on this data-driven journey to unlock the secrets behind song popularity and revolutionize how the music industry approaches success!
+
+**Please click on the .ipynb file to see the project, Thank you!**
