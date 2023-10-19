@@ -14,7 +14,7 @@ The project is poised to address a critical challenge: crafting a robust predict
 
 ### **Dataset**
 
-I have obtained a comprehensive dataset from Spotify (Scraped directly from Spotify Web  API & from https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), containing information about a diverse range of songs. This dataset includes features such as artist name, genre, danceability, tempo, and more. By harnessing the power of machine learning, we will uncover patterns and relationships within this data to build a model that predicts song popularity. **I've made sure to use an old spotify dataset from kaggle as per Spotify Web Dev Policy**
+I have obtained a comprehensive dataset from Spotify (Scraped directly from Spotify Web  API & from https://www.kaggle.com/datasets/yasserh/song-popularity-dataset), containing information about a diverse range of songs. This dataset includes features such as artist name, genre, danceability, tempo, and more. By harnessing the power of machine learning, we will uncover patterns and relationships within this data to build a model that predicts song popularity. (Train data: song_data.csv | Test data: spottest.csv) **I've made sure to use an old spotify dataset from kaggle as per Spotify Web Dev Policy**
 
 
 
